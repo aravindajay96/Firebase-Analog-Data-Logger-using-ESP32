@@ -1,4 +1,4 @@
-🧠 Overview
+🧠 🅾🆅🅴🆁🆅🅸🅴🆆
 
 Reads analog sensor data (0–4095 range)
 
@@ -8,7 +8,7 @@ Uses WiFi + HTTP REST API (no external Firebase library needed)
 
 Visual confirmation in Firebase console
 
-🧰 Hardware Requirements
+🧰 🅷🅰🆁🅳🆆🅰🆁🅴 🆁🅴🆀🆄🅸🆁🅴🅼🅴🅽🆃🆂
 
 Component	Quantity	Description
 
@@ -18,8 +18,8 @@ Potentiometer	1	10kΩ linear potentiometer
 
 Breadboard & Jumper Wires	-	For wiring
 
-⚡ Circuit Diagram
-🧩 Breadboard Wiring
+⚡ 🅲🅸🆁🅲🆄🅸🆃 🅳🅸🅰🅶🆁🅰🅼
+🧩 🅱🆁🅴🅰🅳🅱🅾🅰🆁🅳 🆆🅸🆁🅸🅽🅶
 
 Potentiometer connection to GPIO34 on ESP32:
 
@@ -31,16 +31,17 @@ Potentiometer Pin	Connects To
           
           Right (B)	GND
 
-📸 Breadboard View
+📸 🅱🆁🅴🅰🅳🅱🅾🅰🆁🅳 🆅🅸🅴🆆
 ![Dashboard Preview](Analog_Input_to_ESP32.png)
 (Potentiometer connected to ESP32 GPIO34)
 
-🌐 Firebase Database Result
+
+🌐 🅵🅸🆁🅴🅱🅰🆂🅴 🅳🅰🆃🅰🅱🅰🆂🅴 🆁🅴🆂🆄🅻🆃
 When successfully connected, your Firebase Realtime Database will display results like this:
 
 ![Dashboard Preview](Screenshot2025-10-22_220722.png)
 
-🧩 Notes
+🧩 🅽🅾🆃🅴🆂
 
 Make sure your Firebase Database rules allow authenticated writes.
 
@@ -51,7 +52,7 @@ Connect 3.3V, GND, and GPIO34 exactly as shown.
 
 You can adjust delay time or data structure as needed.
 
-✅ Future Enhancements
+✅ 🅵🆄🆃🆄🆁🅴 🅴🅽🅷🅰🅽🅲🅴🅼🅴🅽🆃🆂
 
 Add multiple sensor inputs (temperature, humidity, etc.)
 
