@@ -32,6 +32,7 @@ Potentiometer Pin	Connects To
           Right (B)	GND
 
 📸 🅱🆁🅴🅰🅳🅱🅾🅰🆁🅳 🆅🅸🅴🆆
+
 ![Dashboard Preview](Analog_Input_to_ESP32.png)
 (Potentiometer connected to ESP32 GPIO34)
 
