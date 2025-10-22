@@ -38,7 +38,7 @@ Potentiometer Pin	Connects To
 🌐 Firebase Database Result
 When successfully connected, your Firebase Realtime Database will display results like this:
 
-![Dashboard Preview](Screenshot%2025-10-22%220722.png)
+![Dashboard Preview](Screenshot2025-10-22_220722.png)
 
 🧩 Notes
 
